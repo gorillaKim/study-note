@@ -6,7 +6,7 @@
 
 Manifest 란 무엇일까?
 
-## [ 목차 ]
+## 목차
 
 * [사전적 의미](#사전적-의미)
 
@@ -86,5 +86,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MTY2NjI3LC0xNjczOTA4NDkyXX0=
+eyJoaXN0b3J5IjpbNzA5ODYxNTY5LDU1NjE2NjYyNywtMTY3Mz
+kwODQ5Ml19
 -->
