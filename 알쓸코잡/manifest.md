@@ -124,9 +124,11 @@ ver1 은 초창기 버전이기 때문에 설명을 생략하겠습니다.
 
 이밖에도 기존의 API보다 사용하기 편하도록 개선된점들이 많으며, 매니페스트 자체에서 설정가능한 권한옵션등 여러 기능들이 추가가 되었습니다.
 
-가장큰 변화는 앞서 말씀드린 백그라운서비스워커로 변경된 점인데요, 이는 매니페스트를 활용한 다양한 확장을 위한 변화라고 합니다.
+가장큰 변화는 앞서 말씀드린 백그라운드 스크립트에서 서비스워커로 변경된 점인데요, 이는 매니페스트 및 서비스워커를 활용한 다양한 서비스를 만들기 위한 확장성 때문에 변화가 되었다고 합니다. 
+
+실제로 두 버전을 이용한 개발을 진행을 해봤는데, ver3가 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTU0MTQ0OSwtMTM0Njg5MzY2LDIwND
+eyJoaXN0b3J5IjpbMTA0ODEwOTIzMCwtMTM0Njg5MzY2LDIwND
 A4Nzk3MywtMzYyOTAyMzM0LC0xNDAxMDAxMDM4LC0xODgwMzEw
 Nzk2LDU4OTM1NTg4NiwtMTY0NTc0NTQ0LDcwOTg2MTU2OSw1NT
 YxNjY2MjcsLTE2NzM5MDg0OTJdfQ==
