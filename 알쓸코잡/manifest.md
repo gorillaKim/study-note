@@ -100,12 +100,16 @@ Manifest 란 무엇일까?
 ## 어디서 사용하는가
 > [목차](#목차)
   
+웹앱 매니페스트는 현재 다양한 영역에서 사용되고 있습니다. 
+
+가장 보편적으
+* 브라우저 익스텐션(예, 크롬익스텐션)
 
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzMzIwMjMsLTM2MjkwMjMzNCwtMT
-QwMTAwMTAzOCwtMTg4MDMxMDc5Niw1ODkzNTU4ODYsLTE2NDU3
-NDU0NCw3MDk4NjE1NjksNTU2MTY2NjI3LC0xNjczOTA4NDkyXX
-0=
+eyJoaXN0b3J5IjpbLTgyMDU2NjM3OSwtMzYyOTAyMzM0LC0xND
+AxMDAxMDM4LC0xODgwMzEwNzk2LDU4OTM1NTg4NiwtMTY0NTc0
+NTQ0LDcwOTg2MTU2OSw1NTYxNjY2MjcsLTE2NzM5MDg0OTJdfQ
+==
 -->
