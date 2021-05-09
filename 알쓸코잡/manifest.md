@@ -95,7 +95,7 @@ Manifest 란 무엇일까?
 
 사실상 백그라운드에서 작업하는 모든 일들은 **"서비스 워커"** 가 한다고 생각하시면 될것같아요.
  
-이때, 웹 매니페스트는 이  **"서비스워커"** 가 접근가능한 **브라우저 API** 에 대하여 정의를 해주거나 서비스워커가 특정 화면을 구성하기 전에 **디폴트로 보여줄 화면**에 대한 정의를 하는등에 대한 작업을 해주고 있습니다.
+이때, 웹 매니페스트는 이  네트워크 감시에 필요한 브라우저 API와 같이 **"서비스워커"** 가 접근가능한 **브라우저 API** 에 대하여 정의를 해주거나 서비스워커가 특정 화면을 구성하기 전에 **디폴트로 보여줄 화면**에 대한 정의를 하는등에 대한 작업을 해주고 있습니다.
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -104,8 +104,8 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODU0NjIwMiwtMzYyOTAyMzM0LC0xND
-AxMDAxMDM4LC0xODgwMzEwNzk2LDU4OTM1NTg4NiwtMTY0NTc0
-NTQ0LDcwOTg2MTU2OSw1NTYxNjY2MjcsLTE2NzM5MDg0OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMTUzMzIwMjMsLTM2MjkwMjMzNCwtMT
+QwMTAwMTAzOCwtMTg4MDMxMDc5Niw1ODkzNTU4ODYsLTE2NDU3
+NDU0NCw3MDk4NjE1NjksNTU2MTY2NjI3LC0xNjczOTA4NDkyXX
+0=
 -->
