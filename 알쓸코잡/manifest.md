@@ -91,7 +91,7 @@ Manifest 란 무엇일까?
 디테일한 상황을 들어볼게요!
 우리는 쇼핑몰을 만들고 있고, 네트워크 연결상태를 감지해서 연결이 끊어졌을시 웹사이트가 멈추는것이 아니라 오프라인에서 구매 혹은 장바구니등 네트워크를 이용하는 요청들을 일시적으로 모아두었다가 네트워크 연결시 순차적으로 처리하는 서비스를 만들고 싶다고 가정해보겠습니다.
 
-이때 네트워크 상태를 감시하고 네트워크 연결이 끊어진 상황에서 특정 화면을 보여주도록 해주는 작업과 오프라인시 발생된 요청들을 저장해두었다가 네트워크 활성화와 함께 순차적으로 처리해주는 작업은 **"서비스워커"** 가 도맡아 처리합니다.
+이때 네트워크 상태를 감시하고 네트워크 연결이 끊어진 상황에서 특정 화면을 보여주도록 해주는 작업과 오프라인시 발생된 요청들을 저장해두었다가 네트워크 활성과 함께 순차적으로 처리해주는 작업은 **"서비스워커"** 가 도맡아 처리합니다.
 
 사실상 백그라운드에서 작업하는 모든 일들은 **"서비스 워커"** 가 한다고 생각하시면 될것같아요.
  
@@ -112,7 +112,8 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDg3OTczLC0zNjI5MDIzMzQsLTE0MD
-EwMDEwMzgsLTE4ODAzMTA3OTYsNTg5MzU1ODg2LC0xNjQ1NzQ1
-NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMTY3MzkwODQ5Ml19
+eyJoaXN0b3J5IjpbLTEzMTc0NTk4NDUsMjA0MDg3OTczLC0zNj
+I5MDIzMzQsLTE0MDEwMDEwMzgsLTE4ODAzMTA3OTYsNTg5MzU1
+ODg2LC0xNjQ1NzQ1NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMT
+Y3MzkwODQ5Ml19
 -->
