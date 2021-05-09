@@ -78,7 +78,7 @@ Manifest 란 무엇일까?
 ## 어떤것이 가능한가
 > [목차](#목차)
   
-ㅁ
+해당 매니페스트 및 관련된 기술을 잘 활용한다면 정말 다
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -87,6 +87,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzQyODU4Myw3MDk4NjE1NjksNTU2MT
+eyJoaXN0b3J5IjpbLTU4OTcyMTM4Niw3MDk4NjE1NjksNTU2MT
 Y2NjI3LC0xNjczOTA4NDkyXX0=
 -->
