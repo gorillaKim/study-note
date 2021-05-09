@@ -78,7 +78,9 @@ Manifest 란 무엇일까?
 ## 어떤것이 가능한가
 > [목차](#목차)
   
-해당 매니페스트 및 관련된 기술을 잘 활용한다면 정말 다
+해당 매니페스트 및 관련된 기술을 잘 활용한다면 기존의 웹사이트가 하지 못했던 영역가지 다양한 일을 하는 웹서비스를 만들 수 있습니다.
+
+우리가 살펴보고 있는 매니페스트는 **"웹앱 매니페스트"** 라고 불립니다.  왜 ㅇ
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -87,6 +89,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTcyMTM4Niw3MDk4NjE1NjksNTU2MT
+eyJoaXN0b3J5IjpbMTQ2MzE3MDg0NCw3MDk4NjE1NjksNTU2MT
 Y2NjI3LC0xNjczOTA4NDkyXX0=
 -->
