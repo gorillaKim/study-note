@@ -113,10 +113,12 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 
-매니페스트는 버전2와 버전3가 있습니다.
+매니페스트는 1 ~ 3까지의 버전이 있습니다.
+
+ver1 ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMjYwMDIzLDIwNDA4Nzk3MywtMzYyOT
-AyMzM0LC0xNDAxMDAxMDM4LC0xODgwMzEwNzk2LDU4OTM1NTg4
-NiwtMTY0NTc0NTQ0LDcwOTg2MTU2OSw1NTYxNjY2MjcsLTE2Nz
-M5MDg0OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDIwMzA0OTEsMjA0MDg3OTczLC0zNj
+I5MDIzMzQsLTE0MDEwMDEwMzgsLTE4ODAzMTA3OTYsNTg5MzU1
+ODg2LC0xNjQ1NzQ1NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMT
+Y3MzkwODQ5Ml19
 -->
