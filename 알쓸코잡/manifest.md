@@ -102,14 +102,18 @@ Manifest 란 무엇일까?
   
 웹앱 매니페스트는 현재 다양한 영역에서 사용되고 있습니다. 
 
-가장 보편적으
-* 브라우저 익스텐션(예, 크롬익스텐션)
+가장 보편적으로 사용되는 곳은 아래와 같습니다.
+* 브라우저 익스텐션 (예, 크롬익스텐션)
+* 일렉트론 (데스크톱 앱)
+* PWA (웹앱)
+
+물론, 앞서서 말씀드린것처럼 위 세개 형태의 서비스를 만들때는 웹앱 매니페스트 뿐 아니라 
 
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDU2NjM3OSwtMzYyOTAyMzM0LC0xND
-AxMDAxMDM4LC0xODgwMzEwNzk2LDU4OTM1NTg4NiwtMTY0NTc0
-NTQ0LDcwOTg2MTU2OSw1NTYxNjY2MjcsLTE2NzM5MDg0OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTEyODI5Mzc5NTQsLTM2MjkwMjMzNCwtMT
+QwMTAwMTAzOCwtMTg4MDMxMDc5Niw1ODkzNTU4ODYsLTE2NDU3
+NDU0NCw3MDk4NjE1NjksNTU2MTY2NjI3LC0xNjczOTA4NDkyXX
+0=
 -->
