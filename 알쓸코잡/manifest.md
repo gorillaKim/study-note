@@ -80,7 +80,7 @@ Manifest 란 무엇일까?
   
 해당 매니페스트 및 관련된 기술을 잘 활용한다면 기존의 웹사이트가 하지 못했던 영역가지 다양한 일을 하는 웹서비스를 만들 수 있습니다.
 
-우리가 살펴보고 있는 매니페스트는 **"웹앱 매니페스트"** 라고 불립니다.  왜 ㅇ
+우리가 살펴보고 있는 매니페스트는 **"웹앱 매니페스트"** 라고 불립니다.  앱스토어를 거치지 않고 장치의 홈 화면에 설치할 수 있는 웹사이트를 구성이 가능하며 이는 단순한 홈 화면 링크/북마크를 통한 일반적인 웹 앱과 달른 방식으로 동작합니다. 이러한 역할수행을 돕는 매니페스트
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -89,6 +89,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzE3MDg0NCw3MDk4NjE1NjksNTU2MT
+eyJoaXN0b3J5IjpbMTYwNjE3NTcxOSw3MDk4NjE1NjksNTU2MT
 Y2NjI3LC0xNjczOTA4NDkyXX0=
 -->
