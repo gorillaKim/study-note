@@ -109,12 +109,12 @@ Manifest 란 무엇일까?
 
 물론, 앞서서 말씀드린것처럼 위 세개 형태의 서비스를 만들때는 웹앱 매니페스트 뿐 아니라 서비스워커(백그라운드 스크립트)가 함께 사용이 되어집니다.
 
-웹앱 매니페스트와 서비스워커는 대부분의 상황에서 하나의 셋트처럼 같이 구성이 되어지기 때문에 하
+웹앱 매니페스트와 서비스워커는 대부분의 상황에서 하나의 셋트처럼 구성이 되어지기 때문에 함께 알아두시는것이 더욱 좋습니다.
 
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MzU0MjQyLDIwNDA4Nzk3MywtMzYyOT
+eyJoaXN0b3J5IjpbMjYyODgwOTg3LDIwNDA4Nzk3MywtMzYyOT
 AyMzM0LC0xNDAxMDAxMDM4LC0xODgwMzEwNzk2LDU4OTM1NTg4
 NiwtMTY0NTc0NTQ0LDcwOTg2MTU2OSw1NTYxNjY2MjcsLTE2Nz
 M5MDg0OTJdfQ==
