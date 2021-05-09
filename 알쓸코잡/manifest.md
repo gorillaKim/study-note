@@ -107,13 +107,12 @@ Manifest 란 무엇일까?
 * 일렉트론 (데스크톱 앱)
 * PWA (웹앱)
 
-물론, 앞서서 말씀드린것처럼 위 세개 형태의 서비스를 만들때는 웹앱 매니페스트 뿐 아니라 
+물론, 앞서서 말씀드린것처럼 위 세개 형태의 서비스를 만들때는 웹앱 매니페스트 뿐 아니라 서비스워커(백그라운드 스크립트)가 함께 사용이 되어집니다.
 
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI5Mzc5NTQsLTM2MjkwMjMzNCwtMT
-QwMTAwMTAzOCwtMTg4MDMxMDc5Niw1ODkzNTU4ODYsLTE2NDU3
-NDU0NCw3MDk4NjE1NjksNTU2MTY2NjI3LC0xNjczOTA4NDkyXX
-0=
+eyJoaXN0b3J5IjpbMjA0MDg3OTczLC0zNjI5MDIzMzQsLTE0MD
+EwMDEwMzgsLTE4ODAzMTA3OTYsNTg5MzU1ODg2LC0xNjQ1NzQ1
+NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMTY3MzkwODQ5Ml19
 -->
