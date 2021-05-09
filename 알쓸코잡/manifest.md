@@ -73,11 +73,12 @@ Manifest 란 무엇일까?
 ```
 파일속 내용을 살펴보면, 해당 manifest 파일이 관리하는 서비스의 풀네임과 간략형 이름부터 각 상황에 필요한 다양한 사이즈의 아이콘 정보까지 담겨져 있는것을 볼 수 있습니다. 
 
-우리가 만들고 있는 서비스에서 사용하는 관련된 정보들 즉 메타정보들이 담겨져 있는것을 확인이 가능해요.
+이렇듯 우리가 만드는 서비스에서 사용되는 기타 정보들에 대한 내용들이 담겨져 있습니다.
 
 ## 어떤것이 가능한가
 > [목차](#목차)
   
+ㅁ
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -86,6 +87,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5ODYxNTY5LDcwOTg2MTU2OSw1NTYxNj
-Y2MjcsLTE2NzM5MDg0OTJdfQ==
+eyJoaXN0b3J5IjpbLTQ4NzQyODU4Myw3MDk4NjE1NjksNTU2MT
+Y2NjI3LC0xNjczOTA4NDkyXX0=
 -->
