@@ -123,10 +123,10 @@ ver1 은 초창기 버전이기 때문에 설명을 생략하겠습니다.
 
 ver3에서 추가된 새로운 기능에 대해서는 매니페스트에서는 다양한 접근권한을 설정할 수 있는 옵션이 생겼으며, 관련된 API들은 이전보다 사용이 편의하도록 개선이 이루어진것들이 많습니다. 
 
-가장큰 변화는 앞서 말씀드린 서비스워커로 변경
+가장큰 변화는 앞서 말씀드린 서비스워커로 변경된 점인데요, 이는 매니페스트를 활용한 다양한 확장을 위한 변화라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NjM1Nzc5LC0xMzQ2ODkzNjYsMjA0MD
-g3OTczLC0zNjI5MDIzMzQsLTE0MDEwMDEwMzgsLTE4ODAzMTA3
-OTYsNTg5MzU1ODg2LC0xNjQ1NzQ1NDQsNzA5ODYxNTY5LDU1Nj
-E2NjYyNywtMTY3MzkwODQ5Ml19
+eyJoaXN0b3J5IjpbMTIyNzc2NzU0OCwtMTM0Njg5MzY2LDIwND
+A4Nzk3MywtMzYyOTAyMzM0LC0xNDAxMDAxMDM4LC0xODgwMzEw
+Nzk2LDU4OTM1NTg4NiwtMTY0NTc0NTQ0LDcwOTg2MTU2OSw1NT
+YxNjY2MjcsLTE2NzM5MDg0OTJdfQ==
 -->
