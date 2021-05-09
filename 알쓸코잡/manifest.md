@@ -121,9 +121,9 @@ ver1 은 초창기 버전이기 때문에 설명을 생략하겠습니다.
 대부분의 기존에 있던 기능에 대해서 ver2 와 ver3 간에 큰 차이점은 없
 습니다. 대신에 ver2에서 사용되던 **백그라운드 스크립트,페이지** 는 v3에서 **서비스 워커** 라는 이름으로 변경이 되어졌으며 네트워크에 접근하는 브라우저API 와 관련해서도 보안및 편의기능이 추가된 새로운 API로 교체되었습니다.
 
-그 밖에도 매니
+ver3에서 추가된 새로운 기능에 대해서 매니페스트 자체에 접근권한에 대한 다양한 옵션을 설정 할 수 있게 되었고
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDQwMDYyMywtMTM0Njg5MzY2LDIwND
+eyJoaXN0b3J5IjpbLTUxMDQyMzkwMCwtMTM0Njg5MzY2LDIwND
 A4Nzk3MywtMzYyOTAyMzM0LC0xNDAxMDAxMDM4LC0xODgwMzEw
 Nzk2LDU4OTM1NTg4NiwtMTY0NTc0NTQ0LDcwOTg2MTU2OSw1NT
 YxNjY2MjcsLTE2NzM5MDg0OTJdfQ==
