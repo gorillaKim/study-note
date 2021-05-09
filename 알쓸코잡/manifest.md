@@ -86,7 +86,8 @@ Manifest 란 무엇일까?
 
 물론 위와같은 작업을 수행하기 위해서는 웹 매니페스트만 가지고는 불가능합니다. 이때 **"서비스워커"** (구 백그라운드 스크립트) 라는 기술이 사용이 되어집니다. 
 
-가령 처음에 예시로 들었던 웹앱을 만든다고 가정을 한다면,  특정한 상황에 우리가 원하는 파일을 대신해서 보여 준다거나, 요청 혹은 완료된 네트워크 자원을 감시하여 특정한 이벤트를 발생시키는 등의 백그라운드에서 동작하는 작업들은 **"서비스워커"** 가 도맡아 처리합니다.
+처음에 예시로 들었던 웹앱을 만든다고 가정을 해볼까요?
+특정한 상황에 우리가 원하는 파일을 대신해서 보여 준다거나, 요청 혹은 완료된 네트워크 자원을 감시하여 특정한 이벤트를 발생시키는 등의 백그라운드에서 동작하는 작업들은 **"서비스워커"** 가 도맡아 처리합니다.
  
 이때, 웹 매니페스트는 이  **"서비스워커"** 가 접근가능한 브라우저 API에 대하여 정의를 해주거나 서비스워커가 특정 화면을 구성하기 전에 디폴트로 보여줄 화면에 대한 정의를 하는등에 대한 작업을 해주고 있습니다.
 
@@ -97,7 +98,7 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAzMTA3OTYsNTg5MzU1ODg2LC0xNj
-Q1NzQ1NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMTY3MzkwODQ5
-Ml19
+eyJoaXN0b3J5IjpbLTE0MDEwMDEwMzgsLTE4ODAzMTA3OTYsNT
+g5MzU1ODg2LC0xNjQ1NzQ1NDQsNzA5ODYxNTY5LDU1NjE2NjYy
+NywtMTY3MzkwODQ5Ml19
 -->
