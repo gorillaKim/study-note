@@ -115,10 +115,13 @@ Manifest 란 무엇일까?
 
 매니페스트는 1 ~ 3까지의 버전이 있습니다.
 
-ver1 ㅇ
+ver1 은 초창기 버전이기 때문에 설명을 생략하겠습니다.
+현재는 ver2가 기본버전으로 자리잡고 있으며, 최근에 ver3 가 나오면서 더 다양한 브라우저 API 및 PWA와 같은 다양한 기술지원이 되었습니다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIwMzA0OTEsMjA0MDg3OTczLC0zNj
-I5MDIzMzQsLTE0MDEwMDEwMzgsLTE4ODAzMTA3OTYsNTg5MzU1
-ODg2LC0xNjQ1NzQ1NDQsNzA5ODYxNTY5LDU1NjE2NjYyNywtMT
-Y3MzkwODQ5Ml19
+eyJoaXN0b3J5IjpbLTEzNDY4OTM2NiwyMDQwODc5NzMsLTM2Mj
+kwMjMzNCwtMTQwMTAwMTAzOCwtMTg4MDMxMDc5Niw1ODkzNTU4
+ODYsLTE2NDU3NDU0NCw3MDk4NjE1NjksNTU2MTY2NjI3LC0xNj
+czOTA4NDkyXX0=
 -->
