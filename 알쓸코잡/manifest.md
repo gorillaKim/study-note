@@ -88,7 +88,8 @@ Manifest 란 무엇일까?
 
 처음에 예시로 들었던 웹앱을 만든다고 가정을 해볼까요?
 
-디테일한 상황을 들어볼게요! 우리는 쇼핑몰을 만들고 있고, 네트워크 연결상태를 감지해서 연결이 끊어졌을시 웹사이트가 멈추는것이 아니라 오프라인에서 구매 혹은 장바구니등 네트워크 요청한 항목들이 
+디테일한 상황을 들어볼게요!
+우리는 쇼핑몰을 만들고 있고, 네트워크 연결상태를 감지해서 연결이 끊어졌을시 웹사이트가 멈추는것이 아니라 오프라인에서 구매 혹은 장바구니등 네트워크를 이용하는 요청 항목들을 일시적으로 모아두었다가 네트워크 연결시 순차적으로 처리하는 서비스를 만들고 싶다고 가정해보겠습니다.
 
 특정한 이벤트를 발생시키는 등의 백그라운드에서 동작하는 작업들은 **"서비스워커"** 가 도맡아 처리합니다.
  
@@ -101,7 +102,7 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjU3MTY3NSwtMTQwMTAwMTAzOCwtMT
+eyJoaXN0b3J5IjpbLTczNjc4MDU3NCwtMTQwMTAwMTAzOCwtMT
 g4MDMxMDc5Niw1ODkzNTU4ODYsLTE2NDU3NDU0NCw3MDk4NjE1
 NjksNTU2MTY2NjI3LC0xNjczOTA4NDkyXX0=
 -->
