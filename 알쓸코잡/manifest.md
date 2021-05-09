@@ -84,7 +84,9 @@ Manifest 란 무엇일까?
 
 이러한 이유로 해당 매니페스트를 **"웹앱 매니페스트"** 라고도 불립니다.
 
-물론 ㅇ
+물론 위와같은 작업을 수행하기 위해서는 웹 매니페스트만 가지고는 불가능합니다. 이때 **"서비스워커"** (구 백그라운드 스크립트) 라는 기술이 사용이 되어집니다. 
+
+웹 매니페스트는 이  **"서비스워커"** 가 동
 
 ## 어디서 사용하는가
 > [목차](#목차)
@@ -93,6 +95,6 @@ Manifest 란 무엇일까?
 ## Manifest Version 2 VS Version 3
 > [목차](#목차)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTA4Njk1Miw3MDk4NjE1NjksNTU2MT
-Y2NjI3LC0xNjczOTA4NDkyXX0=
+eyJoaXN0b3J5IjpbOTIxMjY3MTMsNzA5ODYxNTY5LDU1NjE2Nj
+YyNywtMTY3MzkwODQ5Ml19
 -->
